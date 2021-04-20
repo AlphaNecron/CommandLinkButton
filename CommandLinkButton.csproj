@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <UseWindowsForms>true</UseWindowsForms>
+    <TargetFrameworks>net5.0-windows;netcoreapp3.1</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Title>CommandLinkButton</Title>
+    <Authors>AlphaNecron</Authors>
+    <Description>Native command link button for C# WinForms.</Description>
+    <Copyright>AlphaNecron</Copyright>
+    <PackageProjectUrl>https://github.com/AlphaNecron/CommandLinkButton</PackageProjectUrl>
+    <PackageIconUrl>icon.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/AlphaNecron/CommandLinkButton</RepositoryUrl>
+    <RepositoryType>https://github.com/AlphaNecron/CommandLinkButton</RepositoryType>
+    <PackageTags>CommandLinkButton</PackageTags>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>
