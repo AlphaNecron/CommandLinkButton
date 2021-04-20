@@ -1,4 +1,4 @@
-﻿namespace System.Windows.Forms.CommandLinkButton
+﻿namespace System.Windows.Forms
 {
     partial class CommandLinkButton
     {
